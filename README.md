@@ -1,2 +1,2 @@
 # laberinto
-Tarea de laberinto BACKTRANCKING
+Complejidad: dofe
